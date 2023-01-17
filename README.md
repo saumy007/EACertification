@@ -4,4 +4,4 @@ In this reposiditory I have uploaded the EA Virtual Software Engineer Certificat
 * Did Character Creation
 * A feature Proposal
 * Created a Game Object
-[1661062847124.pdf](https://github.com/saumy007/EACertification/files/10438872/1661062847124.pdf)
+![image](https://user-images.githubusercontent.com/100237166/212998127-fec6387b-3840-4981-b13b-82ed058f4ab0.png)
